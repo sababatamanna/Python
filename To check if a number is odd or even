@@ -1,0 +1,7 @@
+list1=[1,2,3,4,5,6]
+for element in list1:
+  print(element)
+  if(element % 2==0):
+    print("The digit is even")
+  else:
+    print("The digit is odd")
